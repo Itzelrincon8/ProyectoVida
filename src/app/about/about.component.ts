@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Router } from '@angular/router';
 import { DataService } from '../data.service';
-
+//this is a comment to templating branch
 @Component({
   selector: 'app-about',
   templateUrl: './about.component.html',
