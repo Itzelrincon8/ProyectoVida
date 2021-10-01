@@ -1,3 +1,4 @@
+//this is a comment to interpolation issue
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
