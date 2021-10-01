@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { trigger,style,transition,animate,keyframes,query,stagger } from '@angular/animations';
 import { DataService } from '../data.service';
-
+//this is a issue comment
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
